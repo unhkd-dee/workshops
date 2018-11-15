@@ -113,3 +113,5 @@ Then download all these datasets and place them under `/tmp/tfl-data`.
 1.  http://yann.lecun.com/exdb/mnist/train-labels-idx1-ubyte.gz
 1.  http://yann.lecun.com/exdb/mnist/t10k-images-idx3-ubyte.gz
 1.  http://yann.lecun.com/exdb/mnist/t10k-labels-idx1-ubyte.gz
+
+## Happy Machine Learning
